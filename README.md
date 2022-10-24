@@ -1,2 +1,2 @@
 # time_series_project
-时间序列学习项目
+Time series projects based on traditional methods and deep learning
